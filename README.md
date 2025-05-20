@@ -36,10 +36,10 @@ The dataset contains customer information including:
 Customer-Churn-Prediction-ML/
 ├── codes_and_models/
 │   └── main.ipynb          # Main analysis and modeling notebook
+    └── customer_churn.pkl  # Saved best performing model
+
 ├── dataset/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Dataset file
-├── models/
-│   └── best_model.pkl      # Saved best performing model
 └── README.md
 ```
 
